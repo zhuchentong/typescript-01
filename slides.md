@@ -6,7 +6,7 @@ class: text-center
 highlighter: shiki
 lineNumbers: false 
 title: TypeScript
-download: true
+monaco: true
 ---
 
 # TypeScript

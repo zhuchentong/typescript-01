@@ -37,7 +37,7 @@ layout: center
 
 <div class="py-4">
 
-![Remote Image](https://miro.medium.com/max/1400/1*VAP896WLOAJNH8uspXsbTA.png)
+![Local Image](/images/image-03.png)
 
 </div>
 
